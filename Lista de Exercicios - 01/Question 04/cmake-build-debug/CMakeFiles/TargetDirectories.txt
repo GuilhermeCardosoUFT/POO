@@ -1,0 +1,3 @@
+C:/Users/PHI/CLionProjects/POO/Question 04/cmake-build-debug/CMakeFiles/Question_04.dir
+C:/Users/PHI/CLionProjects/POO/Question 04/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PHI/CLionProjects/POO/Question 04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
